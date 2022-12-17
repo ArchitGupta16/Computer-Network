@@ -12,3 +12,5 @@ Python Code for
 NS2 Simulator codes:
 1. Setup for transfer - TCP and UDP
 2. Mesh Topology 
+3. Delay 
+4. Throughput
